@@ -12,7 +12,7 @@ Bienvenue sur la **Cheat Sheet Platform** ! C'est une application web full-stack
 ## 🔗 Démo en Ligne
 
 Vous voulez voir l'application en action tout de suite ?
-Accédez à la démo en ligne ici : **[LIEN VERS TA DÉMO DÉPLOYÉE SUR TON VPS]**
+Accédez à la démo en ligne **[ici](https://demo-ksyv.com/cheatsheet-platform/)**
 
 **⚠️ Note sur la Démo :** Cette version est une démo publique. Les données sont partagées entre tous les utilisateurs et sont **réinitialisées automatiquement toutes les heures**. N'hésitez pas à jouer avec, mais ne comptez pas sur la persistance de vos modifications.
 
